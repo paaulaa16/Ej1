@@ -1,0 +1,95 @@
+﻿
+C:\Users\1daw3\Desktop\ej1>doskey /history
+cd desktop
+git clone https://gitlab.com/paaulaa16/ej1.git
+code .
+echo "Irun" >ciudades.txt
+cat ciudades.txt
+git add .
+git commit -m "commit 5 ciudades.txt"
+echo "Donosti" >>ciudades.txt
+cat ciudades.txt
+git add .
+git commit -m "commit 7 ciudades.txt"
+git push
+echo "Rentería" >>ciudades.txt
+git add .
+git commit -m "commit 10 ciudades.txt"
+echo Irun > ciudades.txt
+type ciudades.txt
+git add .
+git commit -m "commit 5 ciudades.txt"
+git push
+git push paaulaa_
+git push --set-upstream paaulaa_ master
+git push https://gitlab.com/paaulaa16/ej1.git
+git push --set-upstream https://gitlab.com/paaulaa16/ej1.git master
+ git push --set-upstream https://gitlab.com/paaulaa16/ej1.git master
+git status
+git push
+cd desktop
+git clone https://gitlab.com/paaulaa16/ej1.git
+cd ej1
+echo Irun > ciudades.txt
+git add .
+git commit -m "commit 1 ciudades.txt
+echo donosti >> ciudades.txt
+git add .
+git commit -m "commit 2 ciudades.txt
+git push
+echo renteria >>> ciudades.txt
+echo renteria >> ciudades.txt
+git add .
+git commit -m "commit 3 ciudades.txt
+git push
+git pull
+type ciudades.txt
+echo "Toronto" >>ciudadesCanada.txt
+git add .
+git commit -m "15 nuevo fichero ciudades Alemania"
+git commit --amend #16 nuevo fichero ciudades Canada
+git log --oneline
+git push
+git push --set-upstream https://gitlab.com/paaulaa16/ej1.git master
+echo "Calgary" >>ciudadesCanada.txt
+git commit -am "18 Calgary"
+git tag  Calgary
+echo "Montreal" >>ciudadesCanada.txt
+git commit -am "19 Montreal"
+git tag Montreal
+echo "Edmonton" >>ciudadesCanada.txt
+git commit -am "20 Edmonton"
+git tag Edmonton
+echo "Quebec" >>ciudadesCanada.txt
+git commit -am "21 Quebec"
+git tag Quebec
+git log --oneline
+git reset --soft Edmonton #! Nigún mensaje de salida
+type ciudadesCanada.txt   #! Se matien igual
+    Ottwa
+    Vancouver
+    Toronto
+    Calgary
+    Montreal
+    Edmonton
+    Quebec
+git log --oneline
+git reset --mixed Montreal
+Unstaged changes after reset:
+  M       ciudadesCanada.txt
+type ciudadesCanada.txt
+git log --oneline
+git reset --hard Calgary
+git log --oneline
+type ciudadesCanada.txt
+git status
+git commit -m "nuevo fichero ciudades"
+git add .
+git status
+On branch master
+git status on branch master
+git commit -m
+git commit
+git push
+git push --set-upstream https://gitlab.com/paaulaa16/ej1.git master
+doskey /history
